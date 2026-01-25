@@ -23,3 +23,23 @@ This project is an experiment in high-level Human-AI collaboration.
 - **Architect & Visionary:** Miguel Velasquez.
 - **Technical Partners:** Gemini 3.0 Flash (Google) & Grok (xAI).
 - **Process:** The human architect defines the ethical vision and strategic roadmap, while the AI partners assist in code generation, technical documentation, and stack optimization.
+
+
+---
+
+## 🗺️ Project Sentinel Roadmap (2026)
+
+### Phase 1: Foundation (Q1 - Current)
+- [x] Establish Human-AI Co-creation Framework (Gemini 3 Flash + Grok).
+- [x] Initial Innocence Score logic & API structure.
+- [x] Security & Privacy baseline (`SECURITY.md`).
+
+### Phase 2: Intelligence & NLP (Q2)
+- [ ] Integrate **BERT-based** models for false confession detection.
+- [ ] Research **Vision Transformers (ViT)** for OCR handwritten dockets.
+- [ ] Beta testing of the Anomaly Detection module.
+
+### Phase 3: Community & Scale (Q3)
+- [ ] Open-source dataset collaboration with legal archives.
+- [ ] Legal expert verification layer (The "Human-in-the-loop" protocol).
+- [ ] Dashboard MVP for legal defense teams.
