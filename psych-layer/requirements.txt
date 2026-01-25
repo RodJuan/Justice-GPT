@@ -1,2 +1,5 @@
-aif360
+torch
+transformers
+datasets
+pandas
 scikit-learn
