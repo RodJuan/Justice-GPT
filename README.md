@@ -16,3 +16,10 @@
 
 ## 🎯 Milestone 1: Operation Paper Trail
 Benchmark the "Innocence Score" algorithm against 100 verified exoneration cases.
+
+
+## 🤖 Co-Creation Disclosure
+This project is an experiment in high-level Human-AI collaboration.
+- **Architect & Visionary:** Miguel Velasquez.
+- **Technical Partners:** Gemini 3.0 Flash (Google) & Grok (xAI).
+- **Process:** The human architect defines the ethical vision and strategic roadmap, while the AI partners assist in code generation, technical documentation, and stack optimization.
