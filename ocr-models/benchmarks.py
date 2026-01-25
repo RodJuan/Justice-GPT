@@ -30,6 +30,9 @@ def false_confession_analysis(text_data):
     Module to analyze linguistic patterns common in coerced confessions.
     Research: Looking for lack of core details and scripted language.
     """
+    # TODO: Integrate Hugging Face BERT model for coercion detection
+    print("Analyzing confession patterns with transformer logic...")
     # Placeholder for NLP/ML pattern matching
     print("Analyzing confession patterns...")
     return None
+
