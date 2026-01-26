@@ -4,6 +4,8 @@
 
 Our Mission & Inspiration: The **Innocence Project** has proven through DNA evidence that hundreds of innocent people were wrongly convicted. Justice GPT seeks to answer the haunting question: What other systemic failures are we overlooking? What about those innocents who have no voice? Those whose letters were never processed, were dismissed, or are currently suffering in silence due to a failing system? This project seeks to upgrade the justice system so this never happens again. We are building a sentinel that doesn't sleep and doesn't overlook. Our journey starts in the USA, with the ultimate goal of bringing this light of truth to Venezuela, Cuba, Nicaragua, and every corner of the world where justice is a cry for freedom.
 
+Systemic Upgrade Beyond Analysis: While our current focus is the Psych-Layer for letter analysis, Justice GPT is designed to be a comprehensive judicial upgrade. We aim to replace outdated, bias-prone manual reviews with a decentralized, tamper-proof verification layer. From automated docket auditing to ZK-Proof identity protection for whistleblowers, we are building the infrastructure for a justice system that is transparent, proactive, and truly universal.
+
 ## 🚀 Technical Stack & Modules
 * **AI/ML:** Python, PyTorch, Transformers (BERT), Vision Transformers (OCR).
 * **Analysis:** xAI Semantic API for legal contradiction detection.
