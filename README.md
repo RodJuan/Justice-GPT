@@ -27,7 +27,7 @@ This project is an experiment in high-level Human-AI collaboration.
 * **Technical Partners:** Gemini 3 Flash (Google) & Grok (xAI).
 * **Process:** The human architect defines the ethical vision and strategic roadmap, while the AI partners assist in code generation, technical documentation, and stack optimization.
 
-## 🗺️ Project Sentinel Roadmap (2026)
+## 🗺️ Justice GPT Roadmap (2026)
 ### Phase 1: Foundation (Q1 - Current) ✅
 - [x] Establish Human-AI Co-creation Framework (Gemini 3 Flash + Grok).
 - [x] Initial Innocence Score logic & API structure.
