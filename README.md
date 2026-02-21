@@ -1,18 +1,18 @@
-Justice GPT ⚖️🤖
+Sentinel Justice ⚖️🤖
 
-Justice GPT is a decentralized AI ecosystem designed to identify wrongful convictions and protect the legal rights of the innocent, with a focus on high-stakes cases. Built through a historic collaboration between human architects and advanced AI (Gemini & Grok/xAI).
+Sentinel Justice is a decentralized AI ecosystem designed to identify wrongful convictions and protect the legal rights of the innocent, with a focus on high-stakes cases. Built through a historic collaboration between human architects and advanced AI (Gemini & Grok/xAI).
 
 🌍 Our Mission & Inspiration
 
-The Innocence Project has proven through DNA evidence that hundreds of innocent people were wrongly convicted. Justice GPT seeks to answer the haunting question: What other systemic failures are we overlooking? What about those innocents who have no voice? Those whose letters were never processed, were dismissed, or are currently suffering in silence due to a failing system? This project seeks to upgrade the justice system so this never happens again. We are building a Sentinel that doesn't sleep and doesn't overlook. Our journey starts in the USA, with the ultimate goal of bringing this light of truth to Venezuela, Cuba, Nicaragua, and beyond—wherever justice is a cry for freedom.
+The Innocence Project has proven through DNA evidence that hundreds of innocent people were wrongly convicted. Sentinel Justice seeks to answer the haunting question: What other systemic failures are we overlooking? What about those innocents who have no voice? Those whose letters were never processed, were dismissed, or are currently suffering in silence due to a failing system? This project seeks to upgrade the justice system so this never happens again. We are building a Sentinel that doesn't sleep and doesn't overlook. Our journey starts in the USA, with the ultimate goal of bringing this light of truth to Venezuela, Cuba, Nicaragua, and beyond—wherever justice is a cry for freedom.
 
 🛡️ Systemic Upgrade Beyond Analysis
 
-While our current focus is the Psych-Layer for letter analysis, Justice GPT is designed as a comprehensive judicial upgrade. We aim to replace outdated, bias-prone manual reviews with a decentralized, tamper-proof verification layer. From automated docket auditing to Zero-Knowledge Proof (ZKP) identity protection for whistleblowers, we are building the infrastructure for a justice system that is transparent, proactive, and truly universal.
+While our current focus is the Psych-Layer for letter analysis, Sentinel Justice is designed as a comprehensive judicial upgrade. We aim to replace outdated, bias-prone manual reviews with a decentralized, tamper-proof verification layer. From automated docket auditing to Zero-Knowledge Proof (ZKP) identity protection for whistleblowers, we are building the infrastructure for a justice system that is transparent, proactive, and truly universal.
 
 ⚖️ Judicial Integrity Framework (Core Objectives)
 
-Justice GPT is engineered to detect and analyze the five primary causes of wrongful convictions identified by the Innocence Project. Our modular architecture systematically addresses these failures:
+Sentinel Justice is engineered to detect and analyze the five primary causes of wrongful convictions identified by the Innocence Project. Our modular architecture systematically addresses these failures:
 
     1. Eyewitness Misidentification: Consistency-Check module uses cross-referencing algorithms to find temporal and spatial contradictions in testimonies.
 
@@ -60,7 +60,7 @@ This project is an experiment in high-level Human-AI collaboration.
 
     Process: The human architect defines the ethical vision and strategic roadmap, while the AI partners assist in code generation, technical documentation, and stack optimization.
 
-🗺️ Justice GPT Roadmap (2026)
+🗺️ Sentinel Justice Roadmap (2026)
 Phase 1: Foundation (Q1 - Current) ✅
 
     [x] Establish Human-AI Co-creation Framework.
